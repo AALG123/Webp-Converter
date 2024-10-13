@@ -7,8 +7,8 @@ Easily convert images of any format (PNG, JPEG, GIF, etc.) into the highly effic
 
 
 
-**1.Convert images from any format to WebP
+1.Convert images from any format to WebP
 
 2.Optimize image files for faster loading times
 
-3.Extract frames from GIFs for easy snipping**
+3.Extract frames from GIFs for easy snipping
